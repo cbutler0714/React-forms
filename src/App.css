@@ -40,3 +40,16 @@
 .read-the-docs {
   color: #888;
 }
+
+* {
+  background-color: gainsboro;
+}
+
+button {
+  margin: 1em;
+  color: blue;
+}
+
+label {
+  font-weight: bold;
+}
